@@ -12,9 +12,9 @@
 | **Branch** | B.Tech – Aerospace Engineering |
 | **Year** | First Year (2025-29) |
 | **Course Code** | CSE0001 – Digital Literacy |
-| **GitHub** | [github.com/your-username](https://github.com/karannoying) |
-| **LinkedIn** | [linkedin.com/in/your-username](https://linkedin.com/in/kumar-karan-bohidar) |
-| **Kaggle** | [kaggle.com/your-username](https://kaggle.com/kumarkaranbohidar) |
+| **GitHub** | [Github](https://github.com/karannoying) |
+| **LinkedIn** | [linkedin](https://linkedin.com/in/kumar-karan-bohidar) |
+| **Kaggle** | [kaggle](https://kaggle.com/kumarkaranbohidar) |
 
 ---
 
