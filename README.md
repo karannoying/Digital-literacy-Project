@@ -70,7 +70,7 @@ Set up professional profiles on **GitHub**, **LinkedIn**, and **Kaggle**. GitHub
 ### Task 3 – Coding & Collaboration Platforms (Module 3)
 Completed a beginner challenge on **CodeChef** and built a 5-question **Google Form** — *Digital Literacy Awareness Quiz* — for batchmates. The quiz covers safe internet practices, professional communication, and cybersecurity basics.
 
-📋 **Google Form Quiz Link:** [ADD YOUR FORM LINK HERE]
+📋 **Google Form Quiz Link:** [[Link](https://forms.gle/M7LfQu75J5QDyY68A)]
 
 ### Task 4 – Email Etiquette (Module 4)
 Drafted two professional emails — one requesting a deadline extension from a professor, and one expressing interest in an internship. Also created a Social Media Do's and Don'ts checklist for college students.
